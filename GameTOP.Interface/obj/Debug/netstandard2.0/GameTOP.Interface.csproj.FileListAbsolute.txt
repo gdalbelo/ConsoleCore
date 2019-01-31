@@ -1,0 +1,9 @@
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.deps.json
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\Vayon02\Projects\consolecore\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.pdb

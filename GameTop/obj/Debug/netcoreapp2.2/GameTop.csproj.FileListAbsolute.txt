@@ -1,0 +1,16 @@
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTop.deps.json
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTop.runtimeconfig.json
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTop.runtimeconfig.dev.json
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTop.dll
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTop.pdb
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.csprojAssemblyReference.cache
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.csproj.CoreCompileInputs.cache
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.AssemblyInfoInputs.cache
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.AssemblyInfo.cs
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.dll
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.pdb
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Interface.dll
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Lib.dll
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Lib.pdb
+C:\Users\Vayon02\Projects\consolecore\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Interface.pdb
+C:\Users\Vayon02\Projects\consolecore\GameTop\obj\Debug\netcoreapp2.2\GameTop.csproj.CopyComplete
